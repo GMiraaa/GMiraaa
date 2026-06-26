@@ -24,7 +24,7 @@ Sou um Analista de Dados e Desenvolvedor Full-stack em formação! Busco constan
 ### Back-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,nodejs,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,nodejs,mysql,postgresql,docker" />
 </p>
 
 ### Outros
@@ -54,6 +54,9 @@ Sou um Analista de Dados e Desenvolvedor Full-stack em formação! Busco constan
 
 ### 📊 Dashboard de Inventário
 Dashboard desenvolvido em Power BI com para controle e monitoramento de ativos.
+
+### 📊 Pipeline + Dashboard Meteorológica
+Dashboard desenvolvido em React e Tailwindcss que exibe dados tratatos via PySpark de uma API de Monitoramento Meteorológico.
 
 ### 🌐 Sistema Web Full Stack
 Aplicação desenvolvida com React, Spring Boot e MySQL para gerenciamento de dados para um estúdio de tatuagem.
