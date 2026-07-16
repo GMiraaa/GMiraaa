@@ -8,7 +8,7 @@ Sou um Analista de Dados e Desenvolvedor Full-stack em formação! Busco constan
 - SPTECH (Análise e Desenvolvimento de Sistemas | 2025 - No momento)
 - CNA (Inglês Avançado | 2016 - 2021)
 
-## Minhat trajetória profissional:
+## Minha trajetória profissional:
 
 - Estagiário de Análista de Site pela <a href="https://www.linkedin.com/company/tndbrasil/posts/?feedView=all">TND Brasil</a>
 - Estágiario de Análise de Dados pela <a href="https://www.linkedin.com/company/stefanini/posts/?feedView=all">Stefanini</a>
@@ -18,7 +18,7 @@ Sou um Analista de Dados e Desenvolvedor Full-stack em formação! Busco constan
 ### Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,wordpress," />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,wordpress," />
 </p>
 
 ### Back-End
@@ -45,12 +45,13 @@ Sou um Analista de Dados e Desenvolvedor Full-stack em formação! Busco constan
 ## 📊 Experiência
 
 - Desenvolvimento de dashboards corporativos
+- Criação de aplicações Web
 - Construção de pipelines de dados
 - Automação de processos com Python
 - Desenvolvimento Front-end e Back-end
 - Projetos de Business Intelligence para clientes como Red Bull
 
-## 🔥 Projetos em Desenvolvidos
+## 🔥 Projetos Desenvolvidos
 
 ### 📊 Dashboard de Inventário
 Dashboard desenvolvido em Power BI com para controle e monitoramento de ativos.
@@ -60,6 +61,9 @@ Dashboard desenvolvido em React e Tailwindcss que exibe dados tratatos via PySpa
 
 ### 🌐 Sistema Web Full Stack
 Aplicação desenvolvida com React, Spring Boot e MySQL para gerenciamento de dados para um estúdio de tatuagem.
+
+### 🌐 Aplicação web File-Finder
+Aplicação desenvolvida com React, Python, postgres e Gemini 2.5 flash para gerenciamento, criação, edicação e busca de arquivos com RAG e busca vetorial de arquivos e conteúdo.
 
 ### 🤖 Automação com Python
 Script de automação de criação, movimentação e aceitação de Pull Requests no GitHub.
