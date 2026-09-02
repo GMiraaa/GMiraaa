@@ -10,8 +10,8 @@ Sou um Analista de Dados e Desenvolvedor Full-stack em formação! Busco constan
 
 ## Minha trajetória profissional:
 
-- Estagiário de Análista de Site pela <a href="https://www.linkedin.com/company/tndbrasil/posts/?feedView=all">TND Brasil</a>
-- Estágiario de Análise de Dados pela <a href="https://www.linkedin.com/company/stefanini/posts/?feedView=all">Stefanini</a>
+- Estagiário Analista de Site pela <a href="https://www.linkedin.com/company/tndbrasil/posts/?feedView=all">TND Brasil</a>
+- Estagiário de Análise e Engenharia de Dados pela <a href="https://www.linkedin.com/company/stefanini/posts/?feedView=all">Stefanini</a>
 
 ## 💻 Tecnologias
 
@@ -30,7 +30,7 @@ Sou um Analista de Dados e Desenvolvedor Full-stack em formação! Busco constan
 ### Outros
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,debian,figma,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,debian,figma,linux,postman,airflow" />
 </p>
 
 ### Estudando
